@@ -1,0 +1,7 @@
+C:\Users\rosla\source\repos\Amazon\Amazon\bin\Debug\Amazon.exe.config
+C:\Users\rosla\source\repos\Amazon\Amazon\bin\Debug\Amazon.exe
+C:\Users\rosla\source\repos\Amazon\Amazon\bin\Debug\Amazon.pdb
+C:\Users\rosla\source\repos\Amazon\Amazon\obj\Debug\Amazon.csprojAssemblyReference.cache
+C:\Users\rosla\source\repos\Amazon\Amazon\obj\Debug\Amazon.csproj.CoreCompileInputs.cache
+C:\Users\rosla\source\repos\Amazon\Amazon\obj\Debug\Amazon.exe
+C:\Users\rosla\source\repos\Amazon\Amazon\obj\Debug\Amazon.pdb
